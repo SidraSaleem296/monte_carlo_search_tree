@@ -23,7 +23,7 @@ Welcome to the Tic Tac Toe game with an AI opponent powered by the Monte Carlo T
 
 ## Example Gameplay 🎲
 Here's a glimpse of what a game might look like:
-![]
+![🤖](./tic_tac_toe_mcst.png)
 
 
 
