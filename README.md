@@ -1,4 +1,3 @@
-# monte_carlo_search_tree
 # Tic Tac Toe Game with Monte Carlo Tree Search AI 🎮🤖
 
 Welcome to the Tic Tac Toe game with an AI opponent powered by the Monte Carlo Tree Search (MCTS) algorithm! Enjoy a classic game of Tic Tac Toe against an AI that uses advanced strategies to challenge you.
